@@ -1,0 +1,9 @@
+Dynammic Programming Project 
+CS 401 Synthesis of Trees of Gates
+
+::Update the windows path for JDK to set the current path
+set path=%path%;C:\Program Files\Java\jdk1.7.0_51\bin
+::Compilation
+javac Run.java
+::Executing the source code with arguments
+java Run Input.txt Library.txt
